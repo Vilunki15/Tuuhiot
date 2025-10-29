@@ -1,3 +1,4 @@
+#include <Arduino.h>
 #include "display.h"
 
 void initializeDisplay(void) {
